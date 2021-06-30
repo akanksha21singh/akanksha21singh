@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 Hola, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 Welcome to my space. :hugs:
 
+I am Akanksha Singh :cowboy_hat_face: , a self taught passionate developer from India :india: . 
 
 
