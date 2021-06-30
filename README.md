@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 Hola, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 Welcome to my space. :hugs:
+
+JSX          24 hrs 1 min    ███████████████████▓░░░░░   78.56 % 
+JavaScript   5 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 % 
+JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
