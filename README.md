@@ -20,6 +20,14 @@ Welcome to my space. :hugs:
 I am Akanksha Singh, a self taught passionate developer from India :india: I am a Data Engineer.
 
 Technologies & Tools. 
+python
+cloud
+jenkins
+github
+big data
+database
+sql
+
 
 
 
