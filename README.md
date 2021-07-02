@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
-Welcome to my space. :hugs:
 
-<h1 align="center">Hello folks! 👋, I'm Akanksha Singh</h1>
-<h3 align="center">I am a data Engineer, passionate about technologies. I believe in brainstorming ideas to bring them in reality. You would hear me more in python language.</h3>
+<h1 align="center">Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akanksha Singh</h1>
+<h3 align="center">I am a data Engineer, passionate about technologies. I believe in brainstorming ideas to bring them in reality. You would hear me more in python language.</h3> I am working as a Data Engineer in Siemens. 
+
+I am trying to contribute more to open source. I am a competitive coder and 5 🌟 in python on Hackerrank. 
+
 
 - 💬 Ask me about **python, Data Engineer, Cloud, Big Data, technologies.**
 
 - 📫 How to reach me **akankshasingh211997@gmail.com**
 
-- ⚡ Fun fact **I travel to explore and escape. what about you?**
+- ⚡ Fun fact about me: **I travel to explore and escape. what about you?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
