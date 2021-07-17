@@ -26,4 +26,9 @@ I am a data Engineer, passionate about technologies. I believe in brainstorming 
 - ⚡ Fun fact - **I can speak, read and write French.**
 
 Currently I am working as a Data Engineer @Siemens, Bangalore. Previous to Siemens I have worked in Robert Bosch as a software developer. 
+To know more about me please consider visiting https://github.com/akanksha21singh/MySpace
+
+I would really love to connect with you. You can also show some love by giving a ⭐ to my repo. 
+
+Happy learning!
 
