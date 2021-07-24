@@ -34,5 +34,7 @@ To know more about me please consider visiting https://github.com/akanksha21sing
 
 I would really love to connect with you. You can also show some love by giving a ⭐ to my repo. 
 
-Happy learning!
+Happy learning! :) 
+
+
 
